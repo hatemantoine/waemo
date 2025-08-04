@@ -18,4 +18,4 @@
 
 ## Earnings
 - Daily run button adds earnings based on taxi level
-- Withdrawals saved to Firestore for manual payout.
+- Withdrawals saved to Firestore for manual payout
