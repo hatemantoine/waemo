@@ -1,0 +1,1 @@
+<template><div>Home Page - Waemo</div></template><script>export default { name: 'Home' }</script>

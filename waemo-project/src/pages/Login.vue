@@ -1,0 +1,1 @@
+<template><div>Login Page - Firebase Auth</div></template><script>export default { name: 'Login' }</script>
