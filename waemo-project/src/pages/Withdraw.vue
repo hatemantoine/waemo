@@ -1,1 +1,0 @@
-<template><div>Withdraw Page - Request Earnings</div></template><script>export default { name: 'Withdraw' }</script>

@@ -1,1 +1,0 @@
-<template><div>My Taxis - Dashboard</div></template><script>export default { name: 'My' }</script>

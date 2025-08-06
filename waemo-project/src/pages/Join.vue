@@ -1,1 +1,0 @@
-<template><div>Join Page - Select Taxi Level</div></template><script>export default { name: 'Join' }</script>
