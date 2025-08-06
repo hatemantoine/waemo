@@ -1,11 +1,12 @@
-
 {
   "name": "waemo-project",
   "version": "1.0.0",
+  "description": "Waemo taxi management app built with Vue 2 and Firebase",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
