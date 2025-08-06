@@ -17,14 +17,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
+      - name: Install dependencies and build
         run: |
           cd waemo-project
           npm install
-
-      - name: Build project
-        run: |
-          cd waemo-project
           npm run build
 
       - name: Deploy to Firebase Hosting
